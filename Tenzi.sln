@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tenzi", "Tenzi\Tenzi.csproj", "{53DDAE19-5A89-4D45-AB81-44647A3F851C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tenzi", "Tenzi\Tenzi.csproj", "{2F2DA56A-B883-48D4-8391-AEF8A60CE2B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{53DDAE19-5A89-4D45-AB81-44647A3F851C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{53DDAE19-5A89-4D45-AB81-44647A3F851C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{53DDAE19-5A89-4D45-AB81-44647A3F851C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{53DDAE19-5A89-4D45-AB81-44647A3F851C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2DA56A-B883-48D4-8391-AEF8A60CE2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2DA56A-B883-48D4-8391-AEF8A60CE2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2DA56A-B883-48D4-8391-AEF8A60CE2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2DA56A-B883-48D4-8391-AEF8A60CE2B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8A8FFED4-966A-4E4F-8350-DA146944A2A9}
+		SolutionGuid = {1E318266-0CDE-43E8-8F8E-16DCA9C5A8C6}
 	EndGlobalSection
 EndGlobal
